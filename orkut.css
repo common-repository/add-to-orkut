@@ -1,0 +1,19 @@
+p.orkut a {
+	text-decoration: none;
+	font-style: italic;
+	color: #666;
+	font-size:12px;
+}
+
+p.orkut img {
+border:0px; background:none;
+}
+
+p.orkut a:hover {
+	text-decoration: underline;
+}
+
+
+p.orkut img {
+	margin: 0px; border:0px;
+}
